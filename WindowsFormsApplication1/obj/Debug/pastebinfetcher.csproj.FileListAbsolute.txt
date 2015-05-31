@@ -1,0 +1,11 @@
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\obj\Debug\pastebinfetcher.csprojResolveAssemblyReference.cache
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\obj\Debug\pastebinfetcher.csproj.GenerateResource.Cache
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

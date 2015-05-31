@@ -1,0 +1,5 @@
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WebPageFetcher\bin\Debug\WebPageFetcher.dll
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WebPageFetcher\bin\Debug\WebPageFetcher.pdb
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WebPageFetcher\obj\Debug\WebPageFetcher.csprojResolveAssemblyReference.cache
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WebPageFetcher\obj\Debug\WebPageFetcher.dll
+C:\Users\vikkio88\Source\Repos\pastebin-fetcher\WebPageFetcher\obj\Debug\WebPageFetcher.pdb
